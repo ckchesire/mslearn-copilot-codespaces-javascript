@@ -35,6 +35,10 @@ const siteProps = {
   youTube: "Code",
 };
 
+/* add an amazing animation to the social icons */
+
+
+
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
 
